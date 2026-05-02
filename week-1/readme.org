@@ -1,0 +1,4 @@
+#+title: Getting Started With Java
+#+author: Cam A.
+
+See [[vibe-876.github.io/posts/setting-up-java.html][blog entry]].

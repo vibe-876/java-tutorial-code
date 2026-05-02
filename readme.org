@@ -2,4 +2,4 @@
 #+author: Cam A.
 
 
-See [[vibe-876.github.io/posts/setting-up-java.html][the tutorial]].
+See [[vibe-876.github.io/index.html][website]].
